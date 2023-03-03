@@ -11,3 +11,5 @@ Practical machine learning with python - kaggle datasets:
     - https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
   - Support Vector Machine
     - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+  - K-Means
+    - https://www.kaggle.com/code/tanmay111999/clustering-pca-k-means-dbscan-hierarchical/input?select=Country-data.csv
